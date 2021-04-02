@@ -1,2 +1,3 @@
 # hello-world
-just repository
+Hi how are you
+fine thank you
